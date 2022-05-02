@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_10", "pz_10\pz_10.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "regex", "regex\regex.csproj", "{40DCA08D-4C3D-4698-8F98-C3DEAA1DA575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz_2.3", "pz_2.3\pz_2.3.csproj", "{A2A07CD6-7713-45E5-9C96-B9CCB63ABE51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_2.3", "pz_2.3\pz_2.3.csproj", "{A2A07CD6-7713-45E5-9C96-B9CCB63ABE51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F45565C-49CB-4A9A-B038-CC28B1D04C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pz_11", "Pz_11\Pz_11.csproj", "{A10F052C-1713-4AC2-AD41-AC43E418808B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{A2A07CD6-7713-45E5-9C96-B9CCB63ABE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A07CD6-7713-45E5-9C96-B9CCB63ABE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A07CD6-7713-45E5-9C96-B9CCB63ABE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10F052C-1713-4AC2-AD41-AC43E418808B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10F052C-1713-4AC2-AD41-AC43E418808B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10F052C-1713-4AC2-AD41-AC43E418808B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10F052C-1713-4AC2-AD41-AC43E418808B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
